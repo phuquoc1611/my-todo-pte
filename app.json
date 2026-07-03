@@ -1,0 +1,32 @@
+{
+  "id": "e319368d-9deb-4b1e-b7f0-729112166589",
+  "name": "ToDo Sample App",
+  "publisher": "MyCompany",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "Sample Per-Tenant Extension for practicing AL-Go for GitHub",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "26.0.0.0",
+  "application": "26.0.0.0",
+  "idRanges": [
+    {
+      "from": 90100,
+      "to": 90149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "13.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
